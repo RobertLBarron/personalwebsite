@@ -1,0 +1,9 @@
+.primary-text{
+    display: flex;
+    flex-direction: row;
+}
+
+.leftbox{
+    display: flex;
+    flex-direction: row;
+}
